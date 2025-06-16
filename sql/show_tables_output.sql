@@ -1,0 +1,6 @@
+Tables_in_clinic
+appointments
+doctors
+patients
+prescriptions
+users

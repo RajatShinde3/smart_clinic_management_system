@@ -1,0 +1,1 @@
+curl -u patient@example.com:password http://localhost:8080/api/appointments
